@@ -1,5 +1,5 @@
 bread x 2 krastavici
-bread x 2 patlidzan
+bread x 6 patlidzan
 bread x 2 kompir
 bread x 2 balon
 bread x 2 pavlaka
